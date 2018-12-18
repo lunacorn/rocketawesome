@@ -10,6 +10,6 @@ also requires GIO/Glib
 
 the sidebar.rasi goes in /usr/share/rofi/themes as it has matching colors and needs to be written/overwritten there
 
-the .Xdefaults is to be placed in ~/
+the .Xdefaults and .themes/ is to be placed in ~/
 
 the other files are to be placed in .config/awesome/
