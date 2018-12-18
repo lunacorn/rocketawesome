@@ -14,7 +14,7 @@ the .Xdefaults and .themes/ is to be placed in ~/
 
 the other files are to be placed in .config/awesome/
 
-screenshot at [img]https://imgur.com/a/FVM69Eh[/img]
+screenshot at https://imgur.com/a/FVM69Eh
 
 Credit to:
 
@@ -22,6 +22,6 @@ Author:	Luca CPZ
 
 Version:	git
 
-License: [url=https://creativecommons.org/licenses/by-nc-sa/4.0/]BY-NC-SA[/url]
+License: https://creativecommons.org/licenses/by-nc-sa/4.0/ BY-NC-SA
 
 Source:	https://github.com/lcpz/awesome-copycats
