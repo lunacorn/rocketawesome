@@ -14,7 +14,7 @@ the .Xdefaults and .themes/ is to be placed in ~/
 
 the other files are to be placed in .config/awesome/
 
-screenshot at https://imgur.com/a/FVM69Eh
+screenshots at https://imgur.com/a/FVM69Eh , https://imgur.com/a/FKg4jpc  https://imgur.com/a/sjfUQzT
 
 Credit to:
 
