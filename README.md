@@ -7,3 +7,9 @@ Rocket awesome will be the base UI for the LunaLand-Arch-Gaming linux distro
 
 This requires the setup of email server in themes/powerarrowdark/themes.lua
 also requires GIO/Glib
+
+the sidebar.rasi goes in /usr/share/rofi/themes as it has matching colors and needs to be written/overwritten there
+
+the .Xdefaults is to be placed in ~/
+
+the other files are to be placed in .config/awesome/
