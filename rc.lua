@@ -32,7 +32,7 @@ if awesome.startup_errors then
     naughty.notify({ preset = naughty.config.presets.critical,
                      title = "Oops, you broke something!",
                      text = awesome.startup_errors })
-end
+end 
 
 -- Handle runtime errors after startup
 do
