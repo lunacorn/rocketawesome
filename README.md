@@ -13,3 +13,5 @@ the sidebar.rasi goes in /usr/share/rofi/themes as it has matching colors and ne
 the .Xdefaults and .themes/ is to be placed in ~/
 
 the other files are to be placed in .config/awesome/
+
+screenshot at https://imgur.com/a/FVM69Eh
